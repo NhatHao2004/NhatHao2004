@@ -7,32 +7,37 @@
 <img src="https://github.com/diengbtvu/diengbtvu/blob/main/led-rgb.gif" width="100%"/>
 <img src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Lâm Nhật Hào</h1>
+<h1 align="center">👋 Xin chào, mình là Lâm Nhật Hào</h1>
 
-
-<p>I'm a Java Spring Boot programmer who enjoys working on challenging and high-impact software projects. I have experience with back-end development and use Spring Boot extensively to build reliable, scalable applications. I'm always looking for new ways to improve my skills and collaborate on interesting projects.</p>
-
-<h3 align="center">Contact me</h3>
 <p align="center">
-  <a href="#">
-    
-  </a>
-
+  <b>Kỹ sư Công nghệ Thông tin | Lập trình Web & Mobile</b>
 </p>
+
+<p align="center">
+Sinh viên mới tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Trà Vinh. Yêu thích phát triển ứng dụng Web và Mobile, luôn học hỏi những công nghệ mới để nâng cao kỹ năng và tạo ra các sản phẩm chất lượng.
+</p>
+
+<h3 align="center">📌 Thông tin</h3>
 
 <ul>
-  <li>📍 Based in Tra Vinh, Viet Nam.</li>
-  
-  <li>💻 Skills: Java, Spring Boot</li>
-  <li>🤝 Open to collaborating on web or software development projects.</li>
+  <li>🎓 Tốt nghiệp ngành Công nghệ Thông tin - Đại học Trà Vinh</li>
+  <li>📍 Trà Vinh, Việt Nam</li>
+  <li>💻 Định hướng: Web Developer & Mobile Developer</li>
+  <li>⚡ Công nghệ: React, React Native, Expo, TypeScript, Firebase</li>
+  <li>🚀 Đam mê xây dựng các ứng dụng hiện đại và tối ưu trải nghiệm người dùng</li>
 </ul>
 
-<h3 align="center">Software and Technology</h3>
+<h3 align="center">🛠 Công nghệ sử dụng</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/tech.svg" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,firebase,nodejs,git,github,vscode,figma" />
   </a>
 </p>
+
+<h3 align="center">📫 Liên hệ</h3>
+
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
+📧 <b>Email:</b> nhathao21112004@gmail.com <br>
+🌐 <b>GitHub:</b> https://github.com/NhatHao2004
 </p>
