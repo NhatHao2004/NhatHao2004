@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-Mình là kỹ sư Công nghệ Thông tin tốt nghiệp tại Đại học Trà Vinh. Có kiến thức về hệ điều hành Windows, mạng máy tính, hỗ trợ kỹ thuật và phát triển ứng dụng Website, Mobile. Luôn chủ động học hỏi, nâng cao kỹ năng chuyên môn và sẵn sàng tiếp cận những công nghệ mới.
+Mình là kỹ sư Công nghệ Thông tin tốt nghiệp tại Đại học Trà Vinh. Có kiến thức về hệ điều hành Windows, mạng máy tính, hỗ trợ kỹ thuật cơ bản và phát triển ứng dụng Website, Mobile. Luôn chủ động học hỏi, nâng cao kỹ năng chuyên môn và sẵn sàng tiếp cận những công nghệ mới.
 </p>
 
 <h3 align="center">Thông tin</h3>
@@ -31,7 +31,7 @@ Mình là kỹ sư Công nghệ Thông tin tốt nghiệp tại Đại học Tr�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,firebase,git,github,vscode" />
   </a>
 </p>
 
