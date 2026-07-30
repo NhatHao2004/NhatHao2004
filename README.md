@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-Mình là kỹ sư Công nghệ Thông tin tốt nghiệp tại Đại học Trà Vinh. Có kiến thức về hệ điều hành Windows, mạng máy tính, hỗ trợ kỹ thuật cơ bản và phát triển ứng dụng Website, Mobile. Luôn chủ động học hỏi, nâng cao kỹ năng chuyên môn và sẵn sàng tiếp cận những công nghệ mới.
+Mình là kỹ sư Công nghệ Thông tin tốt nghiệp tại Trường Đại học Trà Vinh,<br>
+có kiến thức về hệ điều hành Windows, mạng máy tính, hỗ trợ kỹ thuật và phát triển ứng dụng Web, Mobile.<br>
+Luôn chủ động học hỏi, nâng cao kỹ năng chuyên môn và sẵn sàng tiếp cận các công nghệ mới.
 </p>
 
 <h3 align="center">Thông tin</h3>
