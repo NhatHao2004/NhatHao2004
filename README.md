@@ -10,34 +10,34 @@
 <h1 align="center">👋 Xin chào, mình là Lâm Nhật Hào</h1>
 
 <p align="center">
-  <b>Kỹ sư Công nghệ Thông tin | Lập trình Web & Mobile</b>
+<b>Kỹ sư Công nghệ Thông tin | Lập trình Website và Mobile</b>
 </p>
 
 <p align="center">
-Sinh viên mới tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Trà Vinh. Yêu thích phát triển ứng dụng Web và Mobile, luôn học hỏi những công nghệ mới để nâng cao kỹ năng và tạo ra các sản phẩm chất lượng.
+Mình là kỹ sư Công nghệ Thông tin tốt nghiệp tại Đại học Trà Vinh. Có kiến thức về hệ điều hành Windows, mạng máy tính, hỗ trợ kỹ thuật và phát triển ứng dụng Website, Mobile. Luôn chủ động học hỏi, nâng cao kỹ năng chuyên môn và sẵn sàng tiếp cận những công nghệ mới.
 </p>
 
-<h3 align="center">📌 Thông tin</h3>
+<h3 align="center">Thông tin</h3>
 
 <ul>
-  <li>🎓 Tốt nghiệp ngành Công nghệ Thông tin - Đại học Trà Vinh</li>
-  <li>📍 Trà Vinh, Việt Nam</li>
-  <li>💻 Định hướng: Web Developer & Mobile Developer</li>
-  <li>⚡ Công nghệ: React, React Native, Expo, TypeScript, Firebase</li>
-  <li>🚀 Đam mê xây dựng các ứng dụng hiện đại và tối ưu trải nghiệm người dùng</li>
+  <li>Tốt nghiệp ngành Công nghệ Thông tin - Đại học Trà Vinh.</li>
+  <li>Phong Thạnh, Vĩnh Long.</li>
+  <li>Quan tâm đến lĩnh vực Hỗ trợ kỹ thuật, Mạng máy tính và Phát triển phần mềm.</li>
+  <li>Công nghệ: React, TypeScript, JavaScript, HTML, CSS, Firebase.</li>
+  <li>Không ngừng học hỏi và phát triển kỹ năng để đáp ứng yêu cầu công việc.</li>
 </ul>
 
-<h3 align="center">🛠 Công nghệ sử dụng</h3>
+<h3 align="center">Công nghệ sử dụng</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,firebase,nodejs,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,git,github,vscode" />
   </a>
 </p>
 
-<h3 align="center">📫 Liên hệ</h3>
+<h3 align="center">Liên hệ</h3>
 
 <p align="center">
-📧 <b>Email:</b> nhathao21112004@gmail.com <br>
-🌐 <b>GitHub:</b> https://github.com/NhatHao2004
+📧 Email: <b>nhathao21112004@gmail.com</b><br>
+🌐 GitHub: <b>github.com/NhatHao2004</b>
 </p>
